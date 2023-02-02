@@ -9,3 +9,5 @@ Some examples of *exemplar* or tutorial analyses can be seen [here](https://gith
 ## Launch RStudio Server
 
 ![Alt Text](pics/launch_RStudio.gif)
+
+In Noteable you can run [RStudio](Intro_RStudio.md) or [Python](Intro_python.md).
