@@ -10,4 +10,4 @@ Some examples of *exemplar* or tutorial analyses can be seen [here](https://gith
 
 ![Alt Text](pics/launch_RStudio.gif)
 
-In Noteable you can run [RStudio](Intro_RStudio.md) or [Python](Intro_python.md).
+In Noteable you can run [R via RStudio](Intro_R.md) or [Python](Intro_python.md).
