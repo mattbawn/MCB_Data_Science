@@ -1,4 +1,4 @@
-# MCB_Data_Science
+# MCB Data Science Resources
 
 ## Intro
 
