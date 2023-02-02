@@ -1,6 +1,13 @@
 # MCB_Data_Science
-some DS content
 
+## Intro
+
+This repo contains some draft resources to aid instructing first year undergraduate biologics some aspects of data science.
+
+The content has been informed by a round-table discussion on needs in this area for the [School of Molecular and Cellular Biology](https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology) at the University of Leeds. 
+
+
+Key points arising from this discussion are shown below:
 
 ## A) What data science skills are currently lacking in students? What skills would be beneficial for students to have, to enable them to do L3 research projects?
 1. Some lack basic skills, for instance effective use of Excel.
@@ -23,3 +30,4 @@ some DS content
 6.	The integration with statistics teaching is an open question – they are very clearly linked areas
 7.	Specific teaching could cover stats and data science relevant to omics and light and electron microscopy and give some experience of working with this data
 
+## Structure of the resources
