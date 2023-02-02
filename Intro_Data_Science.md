@@ -1,6 +1,5 @@
 # What is Data Science
 
-```
 ## Definitions
 
 If we ask an [AI](https://openai.com/) what data science is, we get the following explanation:
