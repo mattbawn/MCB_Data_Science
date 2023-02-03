@@ -29,6 +29,8 @@ I have explicitly stated *biological* questions as ultimately you are studying b
 
 We should also heavily reinforce that data science is just another aspect of **science** and that its just another set of skills we need to be better biologists.
 
+Moreover, as we are generating more and more biological [data](https://github.com/mattbawn/MCB_Data_Science/blob/main/Big_Data.md), it is *vital* you have the expertise to understand and use it. 
+
 
 
 
