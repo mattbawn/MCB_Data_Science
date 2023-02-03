@@ -32,5 +32,14 @@ Key points arising from this discussion are shown below:
 
 ## Structure of the resources
 
+### Pages
 1. [Data Science](https://github.com/mattbawn/MCB_Data_Science/blob/main/Intro_Data_Science.md)
 2. [Data](https://github.com/mattbawn/MCB_Data_Science/blob/main/Big_Data.md)
+
+### Workshops
+1. [metadata](https://github.com/mattbawn/metadata_workshop), keywords: *Data*, *Metadata*, *FAIR*
+2. [First Steps](https://github.com/mattbawn/DBS), keywords: *Linux*, *RStudio*, *Metadata*
+
+
+
+
