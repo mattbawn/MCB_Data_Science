@@ -35,6 +35,14 @@ Key points arising from this discussion are shown below:
 ### Pages
 1. [Data Science](https://github.com/mattbawn/MCB_Data_Science/blob/main/Intro_Data_Science.md)
 2. [Data](https://github.com/mattbawn/MCB_Data_Science/blob/main/Big_Data.md)
+3. [Computational Thinking](https://github.com/mattbawn/MCB_Data_Science/blob/main/computational_thinking.md)
+4. [Scripting](https://github.com/mattbawn/MCB_Data_Science/blob/main/scripting.md)
+5. [Programs](https://github.com/mattbawn/MCB_Data_Science/blob/main/programs.md)
+6. [Linux](https://github.com/mattbawn/MCB_Data_Science/blob/main/Intro_Linux.md)
+7. [R and Rstudio](https://github.com/mattbawn/MCB_Data_Science/blob/main/Intro_R.md)
+8. [Python](https://github.com/mattbawn/MCB_Data_Science/blob/main/Intro_Python.md)
+
+
 
 ### Workshops
 1. [Metadata](https://github.com/mattbawn/metadata_workshop), keywords: **Data**, **Metadata**, **FAIR**
