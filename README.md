@@ -31,3 +31,6 @@ Key points arising from this discussion are shown below:
 7.	Specific teaching could cover stats and data science relevant to omics and light and electron microscopy and give some experience of working with this data
 
 ## Structure of the resources
+
+1. [Data Science](https://github.com/mattbawn/MCB_Data_Science/blob/main/Intro_Data_Science.md)
+2. [Data](https://github.com/mattbawn/MCB_Data_Science/blob/main/Big_Data.md)
