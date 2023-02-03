@@ -31,7 +31,9 @@ We should also heavily reinforce that data science is just another aspect of **s
 
 Moreover, as we are generating more and more biological [data](https://github.com/mattbawn/MCB_Data_Science/blob/main/Big_Data.md), it is *vital* you have the expertise to understand and use it. 
 
-It is also important that you realise that these skills are inceasingly important for employers and there are a lot od data science [jobs](https://builtin.com/data-science).
+## Employability
+
+It is also important that you realise that these skills are inceasingly important for employers and there are a lot of data science [jobs](https://builtin.com/data-science).
 
 
 
