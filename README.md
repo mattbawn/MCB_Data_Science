@@ -37,9 +37,12 @@ Key points arising from this discussion are shown below:
 2. [Data](https://github.com/mattbawn/MCB_Data_Science/blob/main/Big_Data.md)
 
 ### Workshops
-1. [metadata](https://github.com/mattbawn/metadata_workshop), keywords: *Data*, *Metadata*, *FAIR*
+1. [Metadata](https://github.com/mattbawn/metadata_workshop), keywords: *Data*, *Metadata*, *FAIR*
 2. [First Steps](https://github.com/mattbawn/DBS), keywords: *Linux*, *RStudio*, *Metadata*
 
+### Videos
+
+[Metadata](https://leeds365-my.sharepoint.com/:v:/g/personal/fbsmbaw_leeds_ac_uk/EdX4ThFhs3VAj1CeBz8YyHYBZzar-nlTi6cAvBQ07HORoA?e=jQdmj2&nav=%7B%22playbackOptions%22%3A%7B%22startTimeInSeconds%22%3A11.94%7D%7D)
 
 
 
