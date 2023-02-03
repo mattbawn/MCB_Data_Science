@@ -6,7 +6,7 @@ What is data, why is it useful. Our [AI friend](https://chat.openai.com/) can de
 
 But of course, data existed before computers so I would argue that the big at the end about being processed by computers likely refers to [**digital data**](https://www.techopedia.com/definition/24872/digital-data) specifically.
 
-At a very basic level what we mean by data is ***any useful information that we can use*** 
+At a very basic level what we mean by data is ***any information that we can use to answer a specific question***. Thus our definition of data here could be summed up as *information about X* where X could be anything we have a question or want to investigate. 
 
 
 ## What do we mean by Big Data
