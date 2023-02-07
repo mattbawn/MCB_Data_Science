@@ -41,6 +41,7 @@ Key points arising from this discussion are shown below:
 6. [Linux](https://github.com/mattbawn/MCB_Data_Science/blob/main/Intro_Linux.md)
 7. [R and Rstudio](https://github.com/mattbawn/MCB_Data_Science/blob/main/Intro_R.md)
 8. [Python](https://github.com/mattbawn/MCB_Data_Science/blob/main/Intro_Python.md)
+9. [Bioinformatics](https://github.com/mattbawn/MCB_Data_Science/blob/main/bioinformatics.md)
 
 
 
