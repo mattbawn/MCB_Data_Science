@@ -30,6 +30,11 @@ Key points arising from this discussion are shown below:
 6.	The integration with statistics teaching is an open question – they are very clearly linked areas
 7.	Specific teaching could cover stats and data science relevant to omics and light and electron microscopy and give some experience of working with this data
 
+We can see these align somewhat with [identified requirements](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496) of computational biology and bioinformatics degree programs
+
+
+
+
 ## Structure of the resources
 
 ### Pages
