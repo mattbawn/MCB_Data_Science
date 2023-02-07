@@ -32,7 +32,7 @@ Key points arising from this discussion are shown below:
 
 We can see these align somewhat with [identified requirements](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496) of computational biology and bioinformatics degree programs
 
-![Alt Text](pics/RStudio_sections_colours.gif)
+![Alt Text](pics/controlled_vocabulary.png)
 
 
 ## Structure of the resources
