@@ -6,7 +6,7 @@ Many people use data science and bioinformatics interchanagably, and the differe
 
 ---
 
-Put simply, bioinformatics is the science of storing, retrieving and analysing large amounts of biological information. It is a highly interdisciplinary field involving many different types of specialists, including biologists, molecular life scientists, computer scientists and mathematicians.
+**Definition** Put simply, bioinformatics is the science of storing, retrieving and analysing large amounts of biological information. It is a highly interdisciplinary field involving many different types of specialists, including biologists, molecular life scientists, computer scientists and mathematicians.
 
 ---
 
