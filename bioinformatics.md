@@ -10,6 +10,8 @@ Many people use data science and bioinformatics interchanagably, and the differe
 
 ---
 
+We can see, however, that this seem to be very similar to how we defined [**Data Science**}(Intro_Data_Science.md)
+
 [Bioinformatics Curriculaum Guidlines](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003496)
 
 
